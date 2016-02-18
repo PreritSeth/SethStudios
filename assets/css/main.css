@@ -1009,9 +1009,20 @@
 
 /* Header */
 
+	#header {
+		margin: 0 auto;	
+	}
+
 	#header h1 {
-		font-size: 3.25em;
+		font-size: 3.5em;
+		font-weight: 300;
+		text-transform: lowercase;
+		letter-spacing: 20px;
 		margin: 0 0 0.55em 0;
+		border: 3px solid #fff;
+		display: inline-block;
+		padding: 20px 40px;
+		font-family: "Lato", Sans-Serif;
 	}
 
 	#header p {
