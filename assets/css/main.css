@@ -296,7 +296,6 @@
 		font-size: 16pt;
 		font-weight: 400;
 		letter-spacing: -0.01em;
-		line-height: 1.65em;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1015,13 +1014,13 @@
 
 	#header h1 {
 		font-size: 3.5em;
-		font-weight: 300;
+		font-weight: 600;
 		text-transform: lowercase;
 		letter-spacing: 20px;
 		margin: 0 0 0.55em 0;
-		border: 3px solid #fff;
-		display: inline-block;
-		padding: 20px 40px;
+		border: 9px solid #fff;
+		display: block;
+		padding: 20px 30px 20px 40px;
 		font-family: "Lato", Sans-Serif;
 	}
 
@@ -1062,6 +1061,7 @@
 		display: -ms-flex;
 		display: flex;
 		position: relative;
+		margin: 0 auto;
 	}
 
 		#signup-form input[type="text"],
@@ -1196,3 +1196,14 @@
 			}
 
 		}
+
+.lead-text p{
+	font-family: "Ubuntu", Sans-Serif;
+}
+
+#coming {
+	font-family: "Bebas";
+	font-size: 18px;
+	letter-spacing: 3px;
+	margin: 0 0;
+}
