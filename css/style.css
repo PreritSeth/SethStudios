@@ -1441,3 +1441,17 @@ footer .footer-manu ul li a:hover {
   background-attachment: fixed;
   padding: 40px 0px;
 }
+
+#myframe
+{
+
+    height   : 400px;
+    overflow : hidden;
+    position : relative;
+}
+
+#my-iframe
+{
+    position : absolute;
+    top      : -45px;
+}
