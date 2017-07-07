@@ -342,7 +342,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #marketing {
-  background: url("../img/bg2.png");
+  background: url("../img/bg2.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -365,7 +365,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #ads {
-  background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/75DBXPWN9G.jpg");
+  background: url("../img/ads-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
