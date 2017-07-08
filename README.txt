@@ -1,1 +1,0 @@
-Seth Studios - Coming Soon
