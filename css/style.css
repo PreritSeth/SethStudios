@@ -154,7 +154,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start 
 --*/
 #about {
-  padding: 100px 0;
+  padding: 90px 0;
 }
 #about .block h2 {
   padding-top: 35px;
@@ -163,7 +163,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #about .block p {
   color: #7B7B7B;
-  padding-top: 20px;
+  padding-top: 0px;
 }
 #about .block img {
   padding-left: 40px;
@@ -173,6 +173,45 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 0px;
 }
 #about .section-title p {
+  padding-top: 20px;
+}
+
+
+
+#vrbrowser {
+  padding: 0px 0 0px;
+  background: linear-gradient(to bottom, rgba(255,255,255,1.0) 20%, rgba(255,255,255,0.2), rgba(255,255,255,1.0)80%), url("http://media.istockphoto.com/vectors/simple-seamless-money-pattern-isolated-on-white-for-site-background-vector-id638323406");
+  background-size:;
+  background-position: 10% 0%;
+  position: relative;
+  /*background: linear-gradient(to left, #B9B3D8 , #B6E0EF);*/
+}
+
+
+#vrbrowser:before {
+  background: ;
+}
+
+
+
+
+#vrbrowser .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#vrbrowser .block p {
+  color: #7B7B7B;
+  padding-top: 0px;
+}
+#vrbrowser .block img {
+  padding-left: 40px;
+  width: 100%;
+}
+#vrbrowser .section-title {
+  margin-bottom: 0px;
+}
+#vrbrowser .section-title p {
   padding-top: 20px;
 }
 /*--
@@ -208,13 +247,14 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 #vr-second {
-  background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/860OW99HUI.jpg") no-repeat;
+  background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/G5S6CEP6TI.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
   position: relative;
   padding-top: 80px;
-  background: linear-gradient(to left, #928dab 60%, #B6E0EF 60%)
+  background: linear-gradient(to left, #B9B3D8 , #B6E0EF);
+
 
 }
 
@@ -540,10 +580,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #vr-header {
-  background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/G5S6CEP6TI.jpg") no-repeat;
   background-size: cover;
   padding-top: 24px;
-  padding-bottom: 257px;
+  padding-bottom: 140px;
   position: relative;
   background-attachment: fixed;
 }
@@ -556,8 +595,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to right, #643F68, #BD3F64);
-  opacity: 0.8;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.0)); 
 }
 #vr-header .block {
   color: #E3E3E4;
@@ -570,7 +608,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 45px;
   letter-spacing: 4px;
   padding-bottom: 15px;
-  padding-top: 60px;
+  padding-top: 12px;
   margin-top: 0;
   text-transform: capitalize;
 }
@@ -584,6 +622,13 @@ font header .navbar-default .navbar-nav li a:hover {
 #vr-demo {
   background: #fff;
   padding-top: 100px;
+}
+
+#easy-steps {
+  padding-top:90px;
+  padding-bottom: 90px;
+  background: linear-gradient(to right, #42E695, #3BB2B8); 
+  color: #656565;
 }
 /*--
 	portfolio-work Start 
@@ -1465,4 +1510,25 @@ footer .footer-manu ul li a:hover {
 {
     position : absolute;
     top      : -45px;
+}
+
+
+div.laptop-wrapper {
+    position: relative;
+    padding-bottom: 67.5%;
+    height: 0;
+}
+div.laptop-wrapper video   {
+    box-sizing: border-box;
+    background: url(../img/zZNgk.png) center center no-repeat;
+    background-size: contain;
+    padding-top: 9.2%;
+    padding-right: 22.5%;
+    padding-bottom: 18.2%;
+    padding-left: 22.5%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90%;
 }
