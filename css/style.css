@@ -180,7 +180,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #vrbrowser {
   padding: 0px 0 0px;
-  background: linear-gradient(to bottom, rgba(255,255,255,1.0) 20%, rgba(255,255,255,0.2), rgba(255,255,255,1.0)80%), url("http://media.istockphoto.com/vectors/simple-seamless-money-pattern-isolated-on-white-for-site-background-vector-id638323406");
+  background: linear-gradient(to bottom, rgba(255,255,255,1.0) 20%, rgba(255,255,255,0.2), rgba(255,255,255,1.0)80%), url("../img/browser-bg.jpg");
   background-size:;
   background-position: 10% 0%;
   position: relative;
@@ -247,7 +247,6 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 #vr-second {
-  background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/G5S6CEP6TI.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -274,12 +273,12 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #vr-call-to-action {
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background: url("../img/vr-callbg.jpg") no-repeat;
   background-size: cover;
 }
 #vr-call-to-action:before {
-  background: linear-gradient(to right, #643F68, #BD3F64);
-  opacity: 0.8;
+  background: linear-gradient(105deg, #410265, #00C8DB);
+  opacity: 0.85;
 }
 
 .call-to-action {
