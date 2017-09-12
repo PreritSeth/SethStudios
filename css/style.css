@@ -177,6 +177,29 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 
+#vrabout {
+  padding: 90px 0;
+}
+#vrabout .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#vrabout .block p {
+  color: #7B7B7B;
+  padding-top: 0px;
+}
+#vrabout .block img {
+  padding-left: 40px;
+  width: 100%;
+}
+#vrabout .section-title {
+  margin-bottom: 0px;
+}
+#vrabout .section-title p {
+  padding-top: 20px;
+}
+
 
 #vrbrowser {
   padding: 0px 0 0px;
@@ -272,11 +295,11 @@ font header .navbar-default .navbar-nav li a:hover {
   font-family: 'Roboto', sans-serif;
 }
 
-#vr-call-to-action {
+#go360 {
   background: url("../img/vr-callbg.jpg") no-repeat;
   background-size: cover;
 }
-#vr-call-to-action:before {
+#go360:before {
   background: linear-gradient(105deg, #410265, #00C8DB);
   opacity: 0.85;
 }
@@ -620,7 +643,8 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #vr-demo {
   background: #fff;
-  padding-top: 100px;
+  padding-top: 70px;
+  padding-bottom: 50px;
 }
 
 #easy-steps {
