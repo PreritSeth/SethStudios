@@ -216,8 +216,6 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 
-
-
 #vrbrowser .block h2 {
   padding-top: 35px;
   line-height: 27px;
@@ -325,6 +323,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: #1d192c;
   opacity: 0.8;
 }
+
 
 
 .call-to-action h2 {
@@ -644,7 +643,6 @@ font header .navbar-default .navbar-nav li a:hover {
 #vr-demo {
   background: #fff;
   padding-top: 70px;
-  padding-bottom: 50px;
 }
 
 #easy-steps {
