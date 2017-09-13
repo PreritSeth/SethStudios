@@ -621,7 +621,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #vr-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
+  padding-left: 2.5em;
   text-align: center;
 }
 #vr-header .block h1 {
