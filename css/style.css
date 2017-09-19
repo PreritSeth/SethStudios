@@ -784,9 +784,7 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .5s all;
   transition: .5s all;
 }
-#portfolio-work .block .mix {
-  display: none;
-}
+
 /*--
 	wrapper-work Start 
 --*/
