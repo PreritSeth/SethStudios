@@ -582,7 +582,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
+  padding-left: 50px;
   text-align: center;
 }
 #global-header .block h1 {
@@ -1524,6 +1524,15 @@ footer .footer-manu ul li a:hover {
     overflow : hidden;
     position : relative;
 }
+
+#mysecondframe
+{
+
+    height   : 410px;
+    overflow : hidden;
+    position : relative;
+}
+
 
 #my-iframe
 {
